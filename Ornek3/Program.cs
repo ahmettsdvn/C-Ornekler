@@ -15,7 +15,7 @@ namespace Ornek3
             Araba araba2 = new Araba();
             Araba araba3 = new Araba("Pembe");
 
-            Console.WriteLine($"Araba 1: Renk={araba1.Renk}, Model={araba1.Model}, Yıl={araba1.Yil}");
+            Console.WriteLine($"Araba 1: Renk={araba1.Renk}, Model={araba1.Model}, Yıl={araba1.Yil}"); 
             Console.WriteLine($"Araba 2: Renk={araba2.Renk}, Model={araba2.Model}, Yıl={araba2.Yil}");
             Console.WriteLine($"Araba 3: Renk={araba3.Renk}, Model={araba3.Model}, Yıl={araba3.Yil}");
 
